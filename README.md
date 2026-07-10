@@ -3,4 +3,4 @@
 ### SUPER + 1-9 -- switch workspaces
 ### SUPER + RETURN -- open terminal
 ### SUPER + D -- open launcher
-### You can find all of the keybinds in hyprland.lua
+#### You can find all the other keybindings in the hyprland.lua config.
