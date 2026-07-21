@@ -102,7 +102,6 @@ order = [ "default", "side-bar" ]
         "session",
         "spacer_2",
         "nmtui",
-        "lact",
         "notifications",
         "clipboard",
         "screenshot",
@@ -679,12 +678,6 @@ type = "volume"
 cycle_command = ""
 hide_when_single_layout = false
 type = "keyboard_layout"
-
-[widget.lact]
-command = "lact"
-glyph = "cpu-2"
-tooltip = "Open LACT"
-type = "custom_button"
 
 [widget.launcher-vicinae]
 command = "vicinae toggle"
