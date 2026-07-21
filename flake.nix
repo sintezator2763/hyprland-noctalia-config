@@ -1,5 +1,5 @@
 {
-  description = "sintezator's NixOS config";
+  description = "SintH config;
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
