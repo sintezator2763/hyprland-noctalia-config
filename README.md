@@ -9,3 +9,10 @@
 > If the colors look off, try switching between color modes (e.g., Soft, Vibrant, M3 Content) in the wallpaper selector to find the best match.
 
 
+### Keybindings (most important ones)
+- `SUPER` + `ENTER` — Open Terminal
+- `SUPER` + `Z` — Close Active Window
+- `SUPER` + `W` — Wallpaper Selector
+- `SUPER` + `D` — Application Launcher
+- `SUPER` + `Q` — Control Center
+# you can find other ones in hyprland.lua config
