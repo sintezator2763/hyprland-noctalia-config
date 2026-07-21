@@ -1,5 +1,5 @@
 {
-  description = "SintH config;
+  description = "SintH config";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -12,6 +12,45 @@
       specialArgs = { inherit inputs; };
       modules = [
         ./configuration.nix
+        inputs.noctalia.nixosModules.default
+
+        ({ pkgs, ... }: {
+          boot.initrd.kernelModules = [ "amdgpu" ];
+
+          hardware.graphics = {
+            enable = true;
+            enable32Bit = true;
+          };
+
+          programs.hyprland = {
+            enable = true;
+            xwayland.enable = true;
+          };
+
+          programs.noctalia = {
+            enable = true;
+            recommendedServices.enable = true;
+          };
+
+          environment.systemPackages = with pkgs; [
+            kitty
+            wayland
+            vicinae
+            kdePackages.dolphin
+            kdePackages.qtsvg
+            kdePackages.kio
+            kdePackages.kio-extras
+            kdePackages.kio-fuse
+            kdePackages.solid
+            kdePackages.kio-admin
+            kdePackages.ark
+            adwaita-icon-theme
+            fastfetch
+            fetch
+            git
+            btop
+          ];
+        })
       ];
     };
   };
