@@ -1,5 +1,20 @@
-### SintH(yprland) is a Hyprland rice that provides a simple, comfortable daily-driver experience for anyone. It uses noctalia shell to deliver a smooth and highly customizable user interface that anyone can easily configure thanks to its intuitive GUI.
+<div align="center">
+  << SintH >>
+    
+</div>
+## SintH(yprland) is a Hyprland rice that provides a simple, comfortable daily-driver experience for anyone. It uses noctalia shell to deliver a smooth and highly customizable user interface that anyone can easily configure thanks to its intuitive GUI.
 
+
+
+# Keybindings (most important ones)
+- `mainMod` + `ENTER` — Open Terminal
+- `mainMod` + `Z` — Close Active Window
+- `mainMod` + `D` — Application Launcher
+- `mainMod` + `W` — Wallpaper Selector
+- `mainMod` + `Q` — Control Center
+### you can find other ones in hyprland.lua config
+
+## here are some screenshots
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/329a5a6d-1cbe-4735-b7f1-b92aef843c38" />
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/f546f72c-e0c3-4eff-a6e2-597af4b91ebf" />
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/90110d08-179c-447b-a5c1-c415c398e78d" />
@@ -7,12 +22,3 @@
 
 > [!NOTE]
 > If the colors look off, try switching between color modes (e.g., Soft, Vibrant, M3 Content) in the wallpaper selector to find the best match.
-
-
-### Keybindings (most important ones)
-- `SUPER` + `ENTER` — Open Terminal
-- `SUPER` + `Z` — Close Active Window
-- `SUPER` + `W` — Wallpaper Selector
-- `SUPER` + `D` — Application Launcher
-- `SUPER` + `Q` — Control Center
-# you can find other ones in hyprland.lua config
