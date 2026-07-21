@@ -1,7 +1,6 @@
-<div align="center">
-#  << SintH >>
+#    << SintH >>
     
-</div>
+
 ## SintH(yprland) is a Hyprland rice that provides a simple, comfortable daily-driver experience for anyone. It uses noctalia shell to deliver a smooth and highly customizable user interface that anyone can easily configure thanks to its intuitive GUI.
 
 
