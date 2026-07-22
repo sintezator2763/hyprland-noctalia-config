@@ -1,11 +1,26 @@
 <div align="center">
-    <h1>[ sintezator's hyprland dotfiles ]</h1>
-    <h3></h3>
+
+# [ sintezator's hyprland dotfiles ]
+
+### A smooth, aesthetic, and functional daily-driver Hyprland setup.
+
+[![NixOS](https://img.shields.io/badge/OS-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
+[![Hyprland](https://img.shields.io/badge/WM-Hyprland-blue?style=for-the-badge&logo=hyprland&logoColor=white)](https://hyprland.org)
+[![Shell](https://img.shields.io/badge/Shell-Noctalia-purple?style=for-the-badge)](#)
+
 </div>
-    
+---
 
-## SintH(yprland) is a personal Hyprland rice designed to deliver a smooth, reliable, and comfortable daily-driver experience. Powered by the Noctalia shell, it features a highly customizable user interface that is easy to tweak and adapt, thanks to its intuitive built-in GUI.
+## ✦ Overview
 
+**SintH(yprland)** is a personal Hyprland rice designed to deliver a smooth, reliable, and comfortable daily-driver experience. Powered by the **Noctalia shell**, it features a highly customizable user interface that is easy to tweak and adapt, thanks to its intuitive built-in GUI.
+
+> [!WARNING]
+> ### **Not Plug-and-Play!**
+> This is a personal configuration, not a universal Linux distribution.
+> To get the best experience, make sure to adjust settings like input, mouse sensitivity, display resolution, and layouts inside the config files to match your own machine before using it.
+
+---
 
 > [!WARNING]
 > # **Not Plug-and-Play!**
