@@ -1,5 +1,5 @@
 {
-  description = "sintezator's hyprland-noctalia config";
+  description = "sintezator's Hyprland-Noctalia config";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
