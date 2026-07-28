@@ -14,6 +14,8 @@
 ## Overview
 
 This is a personal Hyprland rice designed to deliver a smooth, reliable, and comfortable daily-driver experience. Powered by the Noctalia shell, it features a highly customizable user interface that is easy to tweak and adapt, thanks to its intuitive built-in GUI.
+> [!NOTE]
+> I most likely won't be updating these dotfiles anymore cuz I'm moving on to quickshell.
 
 > [!WARNING]
 > ### **Not Plug-and-Play!**
