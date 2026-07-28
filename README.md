@@ -1,8 +1,6 @@
 <div align="center">
 
 # [ sintezator's Hyprland-Noctalia config ]
-> [!NOTE]
-> I most likely won't be updating these dotfiles anymore cuz I'm moving on to quickshell.
 ### A smooth and functional daily-driver Hyprland setup.
 
 [![NixOS](https://img.shields.io/badge/OS-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org)
@@ -11,6 +9,8 @@
 
 </div>
 
+> [!NOTE]
+> I most likely won't be updating these dotfiles anymore cuz I'm moving on to quickshell.
 
 ## Overview
 
