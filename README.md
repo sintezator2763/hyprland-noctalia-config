@@ -29,10 +29,12 @@ This is a personal Hyprland rice designed to deliver a smooth, reliable, and com
 
 
 ## here are some screenshots
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/329a5a6d-1cbe-4735-b7f1-b92aef843c38" />
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/f546f72c-e0c3-4eff-a6e2-597af4b91ebf" />
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/90110d08-179c-447b-a5c1-c415c398e78d" />
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/97d797b2-8306-41f8-8db5-6e5ce500bfa1" />
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/3d80009c-010e-450f-95e4-b3ea2e439121" />
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e20ea43-98f3-4cce-a8ba-c3b8472214a1" />
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9825743-3aa3-48a6-966f-0f511b2f9444" />
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/4105084e-75b8-4f17-b2ce-49b7884aa5d9" />
+
+
 
 > [!NOTE]
 > If the colors look off, try switching between color modes (e.g., Soft, Vibrant, M3 Content) in the wallpaper selector to find the best match.
