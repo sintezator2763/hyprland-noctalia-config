@@ -38,8 +38,6 @@
             kdePackages.kio-admin
             kdePackages.ark
             adwaita-icon-theme
-            fastfetch
-            fetch
             git
             btop
           ];
